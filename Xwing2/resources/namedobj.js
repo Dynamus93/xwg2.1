@@ -378,6 +378,8 @@ function Xwing2Object() {
 		box.setReplacementForTag('tiereaper', '<ship>' + this.textToShipChar('tiereaper') + '</ship>');
 		box.setReplacementForTag('customyt1300', '<ship>' + this.textToShipChar('customyt1300') + '</ship>');
 		box.setReplacementForTag('escapecraft', '<ship>' + this.textToShipChar('escapecraft') + '</ship>');
+		box.setReplacementForTag('tiefirstorder', '<ship>' + this.textToShipChar('tiefirstorder') + '</ship>');
+		box.setReplacementForTag('tiespecialforces', '<ship>' + this.textToShipChar('tiespecialforces') + '</ship>');
 		
 		box.alignment = box.LAYOUT_CENTER | box.LAYOUT_MIDDLE;
 		box.headlineAlignment = box.LAYOUT_CENTER;

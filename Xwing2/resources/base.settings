@@ -26,6 +26,9 @@ pilot-imperial-faction-symbol-template = components/pilot-card/images/faction/im
 pilot-imperial-faction-symbol-dpi = 300
 pilot-scum-faction-symbol-template = components/pilot-card/images/faction/scum.png
 pilot-scum-faction-symbol-dpi = 300
+pilot-FO-faction-symbol-template = components/pilot-card/images/faction/First-Order.png
+pilot-FO-faction-symbol-dpi = 300
+
 
 # For development only
 dev-luke-template = components/pilot-card/images/temp/luke-skywalker.png
@@ -58,6 +61,8 @@ pilot-imperial-upper-panel-template = components/pilot-card/images/faction/imper
 pilot-imperial-upper-panel-dpi = 300
 pilot-scum-upper-panel-template = components/pilot-card/images/faction/scum-upper-panel.png
 pilot-scum-upper-panel-dpi = 300
+pilot-FO-upper-panel-template = components/pilot-card/images/faction/FO-upper-panel.png
+pilot-FO-upper-panel-dpi = 300
 
 pilot-rebel-lower-regular-panel-template = components/pilot-card/images/faction/rebel-lower-regular-panel.png
 pilot-rebel-lower-regular-panel-dpi = 300
@@ -65,6 +70,9 @@ pilot-imperial-lower-regular-panel-template = components/pilot-card/images/facti
 pilot-imperial-lower-regular-panel-dpi = 300
 pilot-scum-lower-regular-panel-template = components/pilot-card/images/faction/scum-lower-regular-panel.png
 pilot-scum-lower-regular-panel-dpi = 300
+pilot-FO-upper-panel-template = components/pilot-card/images/faction/FO-lower=regular-panel.png
+pilot-FO-upper-panel-dpi = 300
+
 
 pilot-rebel-lower-cropped-panel-template = components/pilot-card/images/faction/rebel-lower-cropped-panel.png
 pilot-rebel-lower-cropped-panel-dpi = 300
